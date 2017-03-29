@@ -41,6 +41,8 @@ highlight User1 guibg=white guifg=blue
 highlight User2 guibg=white guifg=red
 set t_Co=256
 colorscheme primary
-highlight LineNr ctermfg=grey ctermbg=233 cterm=NONE
+highlight LineNr ctermfg=grey ctermbg=233 cterm=NONE guibg=#151515
 let g:airline_powerline_fonts = 1
 set updatetime=250
+set guifont=Go\ Mono\ for\ Powerline:h14
+set guioptions-=r  "remove right-hand scroll bar
