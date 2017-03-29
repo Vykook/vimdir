@@ -40,3 +40,4 @@ highlight User1 guibg=white guifg=blue
 highlight User2 guibg=white guifg=red
 set t_Co=256
 colorscheme primary
+highlight LineNr ctermfg=grey ctermbg=233 cterm=NONE
