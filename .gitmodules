@@ -1,3 +1,9 @@
-[submodule "sub/vim-colorscheme-primary"]
-	path = sub/vim-colorscheme-primary
+[submodule "vim-pathogen"]
+	path = vim-pathogen
+	url = git@github.com:tpope/vim-pathogen.git
+[submodule "bundle/vim-colorscheme-primary"]
+	path = bundle/vim-colorscheme-primary
 	url = git@github.com:google/vim-colorscheme-primary.git
+[submodule "bundle/denite"]
+	path = bundle/denite
+	url = git@github.com:Shougo/denite.nvim.git

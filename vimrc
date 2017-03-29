@@ -1,4 +1,5 @@
 set nocompatible
+execute pathogen#infect()
 filetype on
 set shell=fish
 filetype plugin indent on
