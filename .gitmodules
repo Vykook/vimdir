@@ -1,0 +1,3 @@
+[submodule "sub/vim-colorscheme-primary"]
+	path = sub/vim-colorscheme-primary
+	url = git@github.com:google/vim-colorscheme-primary.git

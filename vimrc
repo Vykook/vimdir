@@ -38,3 +38,5 @@ set noequalalways
 set statusline=%1*%n:%*\ %<%f\ %y%m%2*%r%*%=[%b,0x%B]\ \ %l/%L,%c%V\ \ %P
 highlight User1 guibg=white guifg=blue
 highlight User2 guibg=white guifg=red
+set t_Co=256
+colorscheme primary
