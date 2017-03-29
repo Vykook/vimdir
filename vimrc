@@ -42,3 +42,5 @@ highlight User2 guibg=white guifg=red
 set t_Co=256
 colorscheme primary
 highlight LineNr ctermfg=grey ctermbg=233 cterm=NONE
+let g:airline_powerline_fonts = 1
+set updatetime=250
