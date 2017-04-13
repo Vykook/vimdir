@@ -1,21 +1,21 @@
 [submodule "vim-pathogen"]
 	path = vim-pathogen
-	url = git@github.com:tpope/vim-pathogen.git
+	url = https://github.com/tpope/vim-pathogen.git
 [submodule "bundle/vim-colorscheme-primary"]
 	path = bundle/vim-colorscheme-primary
-	url = git@github.com:google/vim-colorscheme-primary.git
+	url = https://github.com/google/vim-colorscheme-primary.git
 [submodule "bundle/denite"]
 	path = bundle/denite
-	url = git@github.com:Shougo/denite.nvim.git
+	url = https://github.com/Shougo/denite.nvim.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
-	url = git@github.com:vim-airline/vim-airline.git
+	url = https://github.com/vim-airline/vim-airline.git
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
-	url = git://github.com/airblade/vim-gitgutter.git
+	url = https://github.com/airblade/vim-gitgutter.git
 [submodule "bundle/vim-dasht"]
 	path = bundle/vim-dasht
 	url = https://github.com/sunaku/vim-dasht.git
