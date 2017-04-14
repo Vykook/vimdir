@@ -48,3 +48,5 @@ set guifont=Go\ Mono\ for\ Powerline:h14
 set guioptions-=r  "remove right-hand scroll bar
 set noerrorbells visualbell t_vb=
 autocmd GUIEnter * set visualbell t_vb=
+nmap <F8> :make<CR>
+imap <F8> <Esc>:make<CR>
