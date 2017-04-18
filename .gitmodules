@@ -4,9 +4,6 @@
 [submodule "bundle/vim-colorscheme-primary"]
 	path = bundle/vim-colorscheme-primary
 	url = https://github.com/google/vim-colorscheme-primary.git
-[submodule "bundle/denite"]
-	path = bundle/denite
-	url = https://github.com/Shougo/denite.nvim.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
@@ -22,3 +19,6 @@
 [submodule "bundle/vim-perl"]
 	path = bundle/vim-perl
 	url = https://github.com/vim-perl/vim-perl
+[submodule "bundle/vim-buffergator"]
+	path = bundle/vim-buffergator
+	url = https://github.com/jeetsukumaran/vim-buffergator.git
