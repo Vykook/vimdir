@@ -1,7 +1,7 @@
 set nocompatible
 execute pathogen#infect()
 filetype on
-set shell=fish
+set shell=bash
 filetype plugin indent on
 filetype indent on
 filetype plugin on
