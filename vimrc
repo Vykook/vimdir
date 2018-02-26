@@ -27,6 +27,8 @@ set laststatus=2
 set title
 set titlestring=VIM\ -\ %t
 set mousemodel=popup
+set mouse=a
+set ttymouse=xterm2
 set scrolloff=5
 set sidescroll=5
 set backspace=indent,eol,start
