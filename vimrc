@@ -48,6 +48,7 @@ let g:airline_powerline_fonts = 1
 set updatetime=250
 set guifont=Go\ Mono\ for\ Powerline:h14
 set guioptions-=r  "remove right-hand scroll bar
+set guioptions-=e
 set noerrorbells visualbell t_vb=
 autocmd GUIEnter * set visualbell t_vb=
 nmap <F8> :make<CR>
