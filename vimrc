@@ -5,6 +5,7 @@ set shell=bash
 filetype plugin indent on
 filetype indent on
 filetype plugin on
+set backupcopy=yes
 set nojoinspaces
 set showcmd
 set showmatch
