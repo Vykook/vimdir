@@ -47,7 +47,8 @@ colorscheme primary
 highlight LineNr ctermfg=grey ctermbg=233 cterm=NONE guibg=#151515
 let g:airline_powerline_fonts = 1
 set updatetime=250
-set guifont=Go\ Mono\ for\ Powerline:h14
+"set guifont=Go\ Mono\ for\ Powerline:h14
+set guifont=Meslo\ LG\ S\ Regular\ for\ Powerline:h13
 set guioptions-=r  "remove right-hand scroll bar
 set guioptions-=e
 set noerrorbells visualbell t_vb=
