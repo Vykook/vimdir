@@ -55,3 +55,8 @@ set noerrorbells visualbell t_vb=
 autocmd GUIEnter * set visualbell t_vb=
 nmap <F8> :make<CR>
 imap <F8> <Esc>:make<CR>
+map <C-n> :NERDTreeToggle<CR>
+let g:NERDTreeDirArrowExpandable = '▸'
+let g:NERDTreeDirArrowCollapsible = '▾'
+let g:NERDTreeNodeDelimiter = "\u00a0"
+"let g:NERDTreeNodeDelimiter = ""
